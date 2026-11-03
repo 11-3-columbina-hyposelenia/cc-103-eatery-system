@@ -14,5 +14,4 @@ A console-based Point of Sale (POS) and CRUD ordering system built in **C++** as
 1. Make sure you have a C++ compiler installed (like MinGW/GCC or Dev-C++).
 2. Compile the source code file:
    ```bash
-   g++ main.cpp -o bitik_eatery
-   
+   g++ casestudy103.cxx -o cc-103-eatery-system
